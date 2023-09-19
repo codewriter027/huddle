@@ -218,7 +218,7 @@ h1, h2{
 @media screen and (max-width: 500px) {
   .intro-section{
     background-image: url('./images/bg-hero-mobile.svg');
-    height: 90dvh;
+    height: fit-content;
     padding: 25px 20px;
   }
   .navbar .logo img{
